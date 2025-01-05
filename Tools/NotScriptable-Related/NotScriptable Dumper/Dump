@@ -1,0 +1,298 @@
+
+EditableImage.ImageData {BinaryString}
+
+EditableMesh.MeshData 
+
+Instance.AttributesSerialize {BinaryString}
+Instance.DefinesCapabilities 
+Instance.HistoryId 
+Instance.Tags {BinaryString}
+Instance.UniqueId 
+
+AnimationClip.GuidBinaryString {BinaryString}
+
+AnimationRigData.label {BinaryString}
+AnimationRigData.name {BinaryString}
+AnimationRigData.parent {BinaryString}
+AnimationRigData.postTransform {BinaryString}
+AnimationRigData.preTransform {BinaryString}
+AnimationRigData.transform {BinaryString}
+
+StarterGui.RtlTextSupport 
+StarterGui.VirtualCursorMode 
+
+BaseWrap.HSRAssetId 
+BaseWrap.HSRData 
+BaseWrap.HSRMeshIdData 
+BaseWrap.TemporaryCageMeshId 
+
+WrapLayer.TemporaryReferenceId 
+
+BallSocketConstraint.MaxFrictionTorqueXml 
+
+CustomEvent.PersistedCurrentValue 
+
+BevelMesh.Bevel 
+BevelMesh.Bevel Roundness 
+BevelMesh.Bulge 
+
+DebuggerBreakpoint.line 
+
+Fire.heat_xml 
+Fire.size_xml 
+
+FloatCurve.ValuesAndTimes {BinaryString}
+
+FunctionalTest.HasMigratedSettingsToTestService 
+
+GoogleAnalyticsConfiguration.gaID 
+
+ViewportFrame.CameraCFrame 
+ViewportFrame.CameraFieldOfView 
+
+Path2D.PropertiesSerialize {BinaryString}
+
+HiddenSurfaceRemovalAsset.HSRData {BinaryString}
+HiddenSurfaceRemovalAsset.HSRMeshIdData {BinaryString}
+
+Humanoid.Health_XML 
+Humanoid.InternalBodyScale 
+Humanoid.InternalHeadScale 
+
+HumanoidDescription.EmotesDataInternal 
+HumanoidDescription.EquippedEmotesDataInternal 
+
+InsertService.AllowClientInsertModels 
+
+Lighting.LightingStyle 
+Lighting.PrioritizeLightingQuality 
+
+LocalizationTable.Contents 
+
+LuaSourceContainer.ScriptGuid 
+
+MarkerCurve.ValuesAndTimes {BinaryString}
+
+MaterialService.AsphaltName 
+MaterialService.BasaltName 
+MaterialService.BrickName 
+MaterialService.CardboardName 
+MaterialService.CarpetName 
+MaterialService.CeramicTilesName 
+MaterialService.ClayRoofTilesName 
+MaterialService.CobblestoneName 
+MaterialService.ConcreteName 
+MaterialService.CorrodedMetalName 
+MaterialService.CrackedLavaName 
+MaterialService.DiamondPlateName 
+MaterialService.FabricName 
+MaterialService.FoilName 
+MaterialService.GlacierName 
+MaterialService.GraniteName 
+MaterialService.GrassName 
+MaterialService.GroundName 
+MaterialService.IceName 
+MaterialService.LeafyGrassName 
+MaterialService.LeatherName 
+MaterialService.LimestoneName 
+MaterialService.MarbleName 
+MaterialService.MetalName 
+MaterialService.MudName 
+MaterialService.PavementName 
+MaterialService.PebbleName 
+MaterialService.PlasterName 
+MaterialService.PlasticName 
+MaterialService.RockName 
+MaterialService.RoofShinglesName 
+MaterialService.RubberName 
+MaterialService.SaltName 
+MaterialService.SandName 
+MaterialService.SandstoneName 
+MaterialService.SlateName 
+MaterialService.SmoothPlasticName 
+MaterialService.SnowName 
+MaterialService.Use2022MaterialsXml 
+MaterialService.WoodName 
+MaterialService.WoodPlanksName 
+
+MaterialVariant.TexturePack 
+
+MetaBreakpointContext.ContextDataInternal 
+
+BasePart.Color3uint8 
+BasePart.MaterialVariantSerialized 
+BasePart.size 
+
+FormFactorPart.formFactorRaw 
+formFactorRaw -> FormFactor
+formFactorRaw -> formFactor
+
+Part.shape 
+shape -> Shape
+shape -> shap
+
+Terrain.AcquisitionMethod 
+Terrain.Decoration 
+Terrain.GrassLength 
+Terrain.MaterialColors {BinaryString}
+Terrain.PhysicsGrid {BinaryString}
+Terrain.SmoothGrid {BinaryString}
+AcquisitionMethod -> LastUsedModificationMethod
+
+TriangleMeshPart.AeroMeshData 
+TriangleMeshPart.FluidFidelityInternal 
+TriangleMeshPart.PhysicalConfigData 
+FluidFidelityInternal -> FluidFidelity
+
+MeshPart.InitialSize 
+MeshPart.PhysicsData {BinaryString}
+MeshPart.VertexCount 
+
+PartOperation.AssetId 
+PartOperation.ChildData {BinaryString}
+PartOperation.ChildData2 
+PartOperation.FormFactor 
+PartOperation.InitialSize 
+PartOperation.MeshData {BinaryString}
+PartOperation.MeshData2 
+PartOperation.PhysicsData {BinaryString}
+
+TrussPart.style 
+style -> Style
+
+Model.ModelMeshCFrame 
+Model.ModelMeshData 
+Model.ModelMeshSize 
+Model.NeedsPivotMigration 
+Model.ScaleFactor 
+Model.WorldPivotData 
+
+Workspace.AvatarUnificationMode 
+Workspace.CollisionGroupData {BinaryString}
+Workspace.ExplicitAutoJoints 
+Workspace.FluidForces 
+Workspace.IKControlConstraintSupport 
+Workspace.MeshPartHeadsAndAccessories 
+Workspace.ModelStreamingBehavior 
+Workspace.MoverConstraintRootBehavior 
+Workspace.PathfindingUseImprovedSearch 
+Workspace.PhysicsSteppingMethod 
+Workspace.PlayerCharacterDestroyBehavior 
+Workspace.PrimalPhysicsSolver 
+Workspace.RejectCharacterDeletions 
+Workspace.RenderingCacheOptimizations 
+Workspace.ReplicateInstanceDestroySetting 
+Workspace.SandboxedInstanceMode 
+Workspace.SignalBehavior2 
+Workspace.StreamOutBehavior 
+Workspace.StreamingIntegrityMode 
+Workspace.StreamingMinRadius 
+Workspace.StreamingTargetRadius 
+Workspace.TerrainWeldsFixed 
+Workspace.TouchEventsUseCollisionGroups 
+Workspace.TouchesUseCollisionGroups 
+SignalBehavior2 -> SignalBehavior
+
+PackageLink.PackageIdSerialize 
+PackageLink.VersionIdSerialize 
+
+PartOperationAsset.ChildData {BinaryString}
+PartOperationAsset.MeshData {BinaryString}
+
+Player.RawJoinData {BinaryString}
+
+Players.BanningEnabled 
+Players.UseStrafingAnimations 
+
+RotationCurve.ValuesAndTimes {BinaryString}
+
+ScriptDebugger.CoreScriptIdentifier 
+ScriptDebugger.ScriptGuid 
+
+ServerScriptService.LoadStringEnabled 
+
+Smoke.opacity_xml 
+Smoke.riseVelocity_xml 
+Smoke.size_xml 
+
+SoundService.VolumetricAudio 
+
+StarterPlayer.AvatarJointUpgrade_SerializedRollout 
+StarterPlayer.EnableDynamicHeads 
+StarterPlayer.LoadCharacterLayeredClothing 
+AvatarJointUpgrade_SerializedRollout -> AvatarJointUpgrade
+LoadCharacterLayeredClothing -> LoadCharacterLayeredClothing 
+
+StyleRule.PropertiesSerialize {BinaryString}
+
+StyleDerive.Index 
+
+TerrainDetail.TexturePack 
+
+TerrainRegion.ExtentsMax 
+TerrainRegion.ExtentsMin 
+TerrainRegion.SmoothGrid {BinaryString}
+
+UnvalidatedAssetService.CachedData 
+
+UserGameSettings.CompletedTutorials 
+UserGameSettings.ComputerCameraMovementChanged 
+UserGameSettings.ComputerMovementChanged 
+UserGameSettings.StartMaximized 
+UserGameSettings.StartScreenPosition 
+UserGameSettings.StartScreenSize 
+UserGameSettings.TouchCameraMovementChanged 
+UserGameSettings.TouchMovementChanged 
+UserGameSettings.gaID 
+
+BinaryStringValue.Value {BinaryString}
+
+DoubleConstrainedValue.value 
+
+IntConstrainedValue.value 
+
+WeldConstraint.CFrame0 
+WeldConstraint.Part0Internal 
+WeldConstraint.Part1Internal 
+WeldConstraint.State 
+
+
+Potential Proxy Properties:
+Instance.AttributesSerialize
+BallSocketConstraint.MaxFrictionTorqueXml
+Fire.heat_xml
+Fire.size_xml
+Path2D.PropertiesSerialize
+Humanoid.Health_XML
+Humanoid.InternalBodyScale
+Humanoid.InternalDisplayName {Scriptable} {Serialize: False}
+Humanoid.InternalHeadScale
+Humanoid.InternalOriginalHipHeight {Serialize: False}
+Humanoid.MoveDirectionInternal {Serialize: False}
+HumanoidDescription.EmotesDataInternal
+HumanoidDescription.EquippedEmotesDataInternal
+IncrementalPatchBuilder.SerializePatch {Scriptable}
+MaterialService.Use2022MaterialsXml
+MetaBreakpointContext.ContextDataInternal
+BasePart.MaterialVariantSerialized
+TriangleMeshPart.FluidFidelityInternal
+PartOperation.SerializedCSGTree {Serialize: False}
+PartOperation.SerializedOperationGraph {Serialize: False}
+PackageLink.PackageIdSerialize
+PackageLink.SerializedDefaultAttributes {Scriptable}
+PackageLink.VersionIdSerialize
+Player.InternalCharacterAppearanceLoaded {Serialize: False}
+PlayerEmulatorService.SerializedEmulatedPolicyInfo {Scriptable}
+Players.MaxPlayersInternal {Scriptable}
+Players.PreferredPlayersInternal {Scriptable}
+Smoke.opacity_xml
+Smoke.riseVelocity_xml
+Smoke.size_xml
+Sound.xmlRead_MaxDistance_3 {Serialize: False}
+Sound.xmlRead_MinDistance_3 {Serialize: False}
+StarterPlayer.AvatarJointUpgrade_SerializedRollout
+Studio.Enable Internal Beta Features {Scriptable}
+Studio.Enable Internal Features {Scriptable}
+StyleRule.PropertiesSerialize
+WeldConstraint.Part0Internal
+WeldConstraint.Part1Internal

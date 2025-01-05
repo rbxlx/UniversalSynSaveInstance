@@ -1,0 +1,17 @@
+Varies per executor; Tested on Codex
+
+DebuggerBreakpoint.line {NotCreatable Class} 
+
+BasePart.Color3uint8  Unable to get property Color3uint8, type Color3uint8
+
+Instance.UniqueId  Unable to get property UniqueId, type UniqueId
+Instance.HistoryId  Unable to get property HistoryId, type UniqueId
+
+MetaBreakpointContext.ContextDataInternal {NotCreatable Class} 
+
+ScriptDebugger.ScriptGuid {NotCreatable Class} 
+ScriptDebugger.CoreScriptIdentifier {NotCreatable Class} 
+
+Model.WorldPivotData  Unable to get property WorldPivotData, type OptionalCoordinateFrame
+
+GoogleAnalyticsConfiguration.gaID {NotCreatable Class} 

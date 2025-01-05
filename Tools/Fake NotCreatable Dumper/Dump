@@ -1,0 +1,40 @@
+Varies per executor; Tested on Codex
+
+Annotation {Fake Creatable}
+
+Breakpoint {Fake Creatable}
+
+ExplorerFilterInstance {Fake Creatable}
+
+InternalSyncItem {Fake Creatable}
+
+ReflectionMetadata {Fake Creatable}
+
+ReflectionMetadataCallbacks {Fake Creatable}
+
+ReflectionMetadataClass {Fake Creatable}
+
+ReflectionMetadataClasses {Fake Creatable}
+
+ReflectionMetadataEnum {Fake Creatable}
+
+ReflectionMetadataEnumItem {Fake Creatable}
+
+ReflectionMetadataEnums {Fake Creatable}
+
+ReflectionMetadataEvents {Fake Creatable}
+
+ReflectionMetadataFunctions {Fake Creatable}
+
+ReflectionMetadataMember {Fake Creatable}
+
+ReflectionMetadataProperties {Fake Creatable}
+
+ReflectionMetadataYieldFunctions {Fake Creatable}
+
+StudioAttachment {Fake Creatable}
+
+StudioCallout {Fake Creatable}
+
+WorkspaceAnnotation {Fake Creatable}
+
