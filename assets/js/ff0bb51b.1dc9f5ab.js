@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[727],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/rbxlx/UniversalSynSaveInstance/blob/master","baseUrl":"/UniversalSynSaveInstance/","classOrder":[],"apiCategories":[]}')}}]);
