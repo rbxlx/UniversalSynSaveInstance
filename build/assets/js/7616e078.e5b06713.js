@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[279],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/luau/UniversalSynSaveInstance/blob/master","baseUrl":"/UniversalSynSaveInstance/","classOrder":[],"apiCategories":[]}')}}]);
